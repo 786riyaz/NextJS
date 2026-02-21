@@ -1,0 +1,81 @@
+How to Build a Full-Stack E-commerce App in Next.js 15 With Admin Panel | Part - 1
+https://www.youtube.com/watch?v=Ey2Q7oZMqT8
+Developer Goswami
+✅ Timestamps
+00:00:00 Introduction  
+00:00:33 Website Demo  
+00:08:47 Admin Panel Demo  
+00:19:26 Tech Stack Overview  
+00:22:32 Project Setup & Folder Structure  
+00:39:07 Login Page UI Design  
+01:13:10 Register Page UI Design  
+01:25:01 Authentication Model & APIs  
+03:42:20 Redux & Redux Persist Setup  
+04:00:42 Password Reset UI & API Integration  
+04:40:43 Admin Panel Sidebar Menu  
+05:05:01 Topbar, Dark Mode Toggle, User Dropdown & Logout
+
+
+How to Build a Full-Stack E-commerce App in Next.js 15 With Admin Panel | Part - 2
+https://www.youtube.com/watch?v=u9_IMNMtilk
+Developer Goswami
+✅ Timestamps
+00:00:00 - Cloudinary Setup, Media Module UI & APIs  
+01:00:11 - TanStack Query Integration (Show, Edit, Trash Features)  
+03:29:14 - Category Module: UI & APIs  
+03:52:46 - Material React Table & Trash View  
+06:10:02 - Middleware Implementation  
+06:25:51 - Product Module: UI, Model & APIs  
+08:30:37 - Product Variant Module: UI, Model & APIs  
+09:05:36 - Coupon Module: UI, Model & APIs  
+09:35:57 - Customers Module: UI, Model & APIs  
+09:54:02 - Rating & Review Module  
+10:12:06 - Admin Dashboard UI  
+11:19:33 - Admin Panel: Search Functionality  
+
+
+🔴 Let’s build an LMS Platform with NEXT.JS 16! (Sanity, Clerk, CodeRabbit, Stripe, Mux, AI Agent's)
+https://www.youtube.com/watch?v=JIjNvfxaUoE
+Sonny Sangha
+
+
+🕐 TIMESTAMPS:
+0:00 Introduction
+1:02 Build Demo & Explanation (1/2)
+4:31 Explaining Sanity’s App SDK
+11:38 Build Demo & Explanation (2/2)
+15:46 Why Use Sanity for the Backend
+16:51 Why Use CodeRabbit for AI Code Reviews
+18:01 Why Use Clerk for Authentication & Billing
+21:34 Initialising the Build
+24:34 Setting Up & Implementing CodeRabbit
+25:33 Recommended Extensions to Install
+26:32 Setting Up Clerk for Authentication
+27:15 Setting Up Sanity for the Backend
+36:39 Implementing Shadcn 
+46:05 Implementing Clerk for Authentication 
+52:46 Building the Header Section
+58:31 Building the Landing Page
+1:12:48 Implementing Sanity Studio
+1:26:05 Implementing Sanity Live
+1:30:28 Building the Course Card Component
+1:40:17 Using CodeRabbit for a AI Code Review
+1:46:24 Configuring Plans with Clerk Billing
+1:49:28 Building the Pricing Page
+1:57:28 Building the Dashboard Page
+2:09:16 Building the Course Page
+2:25:14 Building the Lesson Page
+2:40:05 Implementing Mux for Video Functionality
+3:02:52 Building the My Courses Page
+3:06:12 Implementing Loading States
+3:09:10 Implementing the AI Tutor Widget w/ Vercel AI SDK
+3:28:25 Explaining & Implementing Sanity’s App SDK
+3:38:55 Building the Dashboard Page in App SDK
+3:42:44 Building the Courses Page in App SDK
+3:49:17 Building the Modules Page in App SDK
+3:52:52 Building the Lessons Page in App SDK
+3:54:59 Building the Categories Page in App SDK
+3:55:41 Continuing to Implement Sanity’s App SDK
+4:17:40 Building the Course Page in App SDK 
+4:27:21 Testing the App SDK & the Final Build 
+4:37:40 Outro
